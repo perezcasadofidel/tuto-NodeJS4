@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "dependencies": {
+    "express": "5.3.0",
+    "mongodb": "7.8.0",
+    "zod": "4.4.3"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "name": "tuto-nodejs4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perezcasadofidel/tuto-NodeJS4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/perezcasadofidel/tuto-NodeJS4/issues"
+  },
+  "homepage": "https://github.com/perezcasadofidel/tuto-NodeJS4#readme"
+}
